@@ -6,3 +6,8 @@
     height: 16px;
     display: inline-block;
 }
+
+@font-face {
+    font-family: "UVNConThuy";
+    src: url(../fonts/UVNConThuy.TTF) format("truetype");
+}

@@ -17,7 +17,7 @@
 	<link href="css/myStyle.css" rel="stylesheet" />
 
     <!--     Fonts     -->
-    <link href="http://netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.css" rel="stylesheet">
+    <link rel="stylesheet" href="fonts/font-awesome-4.7.0/css/font-awesome.min.css">
     <link href='http://fonts.googleapis.com/css?family=Grand+Hotel' rel='stylesheet' type='text/css'>
 
 </head>
@@ -48,9 +48,9 @@
                 </a>
             </li>
              <li>
-                <a href="#">
-                    <i class="fa fa-envelope-o"></i>
-                    Email
+                <a href="https://m.me/le.ngocman.96" target="_blank">
+                    <i class="fa fa-commenting-o"></i>
+                    Messenger
                 </a>
             </li>
        </ul>
@@ -123,16 +123,20 @@
                 <div class="row">
                     <div class="col-md-4 col-md-offset-4 col-sm6-6 col-sm-offset-3">
                         <div class="contact-text">
-	                        <p>Hotline: (+84) 98 665 8355</p>
-	                        <a href="https://www.facebook.com/le.ngocman.96" target="_blank">
-		                        <p>Facebook: Lê Ngọc Mẫn</p>
-	                        </a>
+	                        <p>Hotline: (+84) 98 665 8355 (Lê Ngọc Mẫn)</p>
 	                        <div>
-	                        	<a href="#">
-			                        <span class="ico-location"></span>
-			                        Thủ Đức, TP Hồ Chí Minh
-	                        	</a>
+			                        <span class="fa fa-map-marker"></span>
+			                        Thủ Đức, TP. Hồ Chí Minh
 	                        </div>
+	                        <a href="https://www.facebook.com/le.ngocman.96" target="_blank">
+	                        	<i class="fa fa-facebook-square"></i>
+		                        Facebook
+	                        </a>
+	                        </br>
+	                        <a href="https://m.me/le.ngocman.96" target="_blank">
+			                    <i class="fa fa-commenting-o"></i>
+			                    Messenger
+			                </a>
                         </div>
                     </div>
                 </div>
