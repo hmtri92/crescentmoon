@@ -128,10 +128,10 @@
             		</div>
             	</div>
             </div>
-            
+            <hr>
             <div class="subscribe">
                 <h4 class="contact">
-                    Liên hệ với chúng tối.
+                    Liên hệ với chúng tối
                 </h4>
                 <div class="row">
                     <div class="col-md-4 col-md-offset-4 col-sm6-6 col-sm-offset-3">

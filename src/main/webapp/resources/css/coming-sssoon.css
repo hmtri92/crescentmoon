@@ -749,10 +749,15 @@ h1 small, h2 small, h3 small, h1 .small, h2 .small, h3 .small {
 }
 
 .main .contact{
-    min-height: 40px;
+	font-size: 28px;
+    min-height: 25px;
+    color: #f20d0d;
+    text-shadow: 0 1px 4px rgba(0, 0, 0, 0.33);
+    text-align: center;
+    margin-top: 40px;
 }
 
-.main .motto, .main .contact, .main .subscribe {
+.main .motto, .main .subscribe {
     font-size: 28px;
     color: #FFFFFF;
     text-shadow: 0 1px 4px rgba(0, 0, 0, 0.33);
