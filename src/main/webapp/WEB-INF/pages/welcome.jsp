@@ -11,6 +11,7 @@
     <meta name="viewport" content="width=device-width" />
 
     <title>Sửa chữa Express</title>
+    <link rel="icon" href="images/iconTitle.ico" />
 
     <link href="css/bootstrap.css" rel="stylesheet" />
 	<link href="css/coming-sssoon.css" rel="stylesheet" />
@@ -67,49 +68,61 @@
             Sửa chữa Express
         </h1>
         <div class="content">
-            <h4 class="motto">Find the best Bootstrap 3 freebies and themes on the web.</h4>
+            <h4 class="motto">Đồ điện hư hỏng, sửa sang nhà cửa đã có chúng tôi.</h4>
             
             <div class="row subscribe">
             	<div class="col-md-6">
             		<div class="row">
             			<div class="col-md-9">
+            				<h4 class="header">
+            					<b>An Toàn</b>
+           					</h4>
             				<h5 class="info-text">
-            					Phương pháp khoa học thuộc ngay 600 từ Tiếng Anh trong thời gian ngắn nhất
+            					Điện áp cao rất nguy hiểm. Hãy để chung tôi xử lý vì chung tôi được đào tạo kỹ càng.
            					</h5>
             			</div>
             			<div class="col-md-3">
-            				<img src="images/icon_fast.png" class="img-responsive">
+            				<img src="images/icon_Safe.png" class="img-responsive">
             			</div>
             		</div>
             		<div class="row">
             			<div class="col-md-9">
+            				<h4 class="header">
+            					<b>Chính xác</b>
+           					</h4>
             				<h5 class="info-text">
-            					Phương pháp khoa học thuộc ngay 600 từ Tiếng Anh trong thời gian ngắn nhất
+            					Việc đâu sẽ vào đó, chúng tôi là chuyên gia.
            					</h5>
             			</div>
             			<div class="col-md-3">
-            				<img src="images/icon_fast.png" class="img-responsive">
+            				<img src="images/icon_correct.png" class="img-responsive">
             			</div>
             		</div>
             	</div>
-            	<div class="col-md-6 subscribe">
+            	<div class="col-md-6">
             		<div class="row">
             			<div class="col-md-3">
             				<img src="images/icon_fast.png" class="img-responsive">
             			</div>
             			<div class="col-md-9">
+            				<h4 class="header">
+            					<b>Nhanh chóng</b>
+           					</h4>
             				<h5 class="info-text">
-            					Phương pháp khoa học thuộc ngay 600 từ Tiếng Anh trong thời gian ngắn nhất
+            					Chung tôi luôn có mặt thật nhanh chóng - giải quyết gọn lẹ khi bạn cần.
            					</h5>
             			</div>
             		</div>
             		<div class="row">
             			<div class="col-md-3">
-            				<img src="images/icon_fast.png" class="img-responsive">
+            				<img src="images/icon_guarantee.png" class="img-responsive">
             			</div>
             			<div class="col-md-9">
+            				<h4 class="header">
+            					<b>Đảm bảo</b>
+           					</h4>
             				<h5 class="info-text">
-            					Phương pháp khoa học thuộc ngay 600 từ Tiếng Anh trong thời gian ngắn nhất
+            					Sửa chữa có bảo hành nên bạn cứ yên tâm.
            					</h5>
             			</div>
             		</div>

@@ -732,7 +732,7 @@ h1 small, h2 small, h3 small, h1 .small, h2 .small, h3 .small {
     position: relative;
     text-align: center;
     text-shadow: 0 0 10px rgba(0, 0, 0, 0.33);
-    margin-top: 150px;
+    margin-top: 80px;
     z-index: 3;
 }
 .main .logo.cursive{
@@ -745,14 +745,14 @@ h1 small, h2 small, h3 small, h1 .small, h2 .small, h3 .small {
     z-index: 4;
 }
 .main .motto{
-    min-height: 80px;
+    min-height: 60px;
 }
 
 .main .contact{
     min-height: 40px;
 }
 
-.main .motto, .main .contact, .main .subscribe .info-text{
+.main .motto, .main .contact, .main .subscribe {
     font-size: 28px;
     color: #FFFFFF;
     text-shadow: 0 1px 4px rgba(0, 0, 0, 0.33);
@@ -760,6 +760,16 @@ h1 small, h2 small, h3 small, h1 .small, h2 .small, h3 .small {
     margin-top: 40px;
     
 }
+
+.info-text{
+    font-size: 28px;
+    color: #FFFFFF;
+    text-shadow: 0 1px 4px rgba(0, 0, 0, 0.33);
+    text-align: center;
+    margin-top: 10px;
+    
+}
+
 .main .subscribe .info-text{
     font-size: 18px;
     margin-bottom: 15px;

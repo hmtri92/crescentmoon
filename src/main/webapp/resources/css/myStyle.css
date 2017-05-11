@@ -11,3 +11,7 @@
     font-family: "UVNConThuy";
     src: url(../fonts/UVNConThuy.TTF) format("truetype");
 }
+
+.header {
+	color: #2C93FF;
+}
