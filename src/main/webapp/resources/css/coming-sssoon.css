@@ -745,19 +745,32 @@ h1 small, h2 small, h3 small, h1 .small, h2 .small, h3 .small {
     z-index: 4;
 }
 .main .motto{
-    min-height: 140px;
+    min-height: 80px;
 }
-.main .motto, .main .subscribe .info-text{
+
+.main .contact{
+    min-height: 40px;
+}
+
+.main .motto, .main .contact, .main .subscribe .info-text{
     font-size: 28px;
     color: #FFFFFF;
     text-shadow: 0 1px 4px rgba(0, 0, 0, 0.33);
     text-align: center;
-    margin-top: 50px;
+    margin-top: 40px;
     
 }
 .main .subscribe .info-text{
     font-size: 18px;
-    margin-bottom: 30px;
+    margin-bottom: 15px;
+}
+
+.main .subscribe .contact-text{
+    font-size: 18px;
+    color: #FFFFFF;
+    text-shadow: 0 1px 4px rgba(0, 0, 0, 0.33);
+    text-align: center;
+    margin-bottom: 5px;
 }
 #video_background {
     position: fixed;
