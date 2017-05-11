@@ -81,7 +81,7 @@
             					Điện áp cao rất nguy hiểm. Hãy để chung tôi xử lý vì chung tôi được đào tạo kỹ càng.
            					</h5>
             			</div>
-            			<div class="col-md-3">
+            			<div class="col-md-3 hidden-sm hidden-xs">
             				<img src="images/icon_Safe.png" class="img-responsive">
             			</div>
             		</div>
@@ -94,14 +94,14 @@
             					Việc đâu sẽ vào đó, chúng tôi là chuyên gia.
            					</h5>
             			</div>
-            			<div class="col-md-3">
+            			<div class="col-md-3 hidden-sm hidden-xs">
             				<img src="images/icon_correct.png" class="img-responsive">
             			</div>
             		</div>
             	</div>
             	<div class="col-md-6">
             		<div class="row">
-            			<div class="col-md-3">
+            			<div class="col-md-3 hidden-sm hidden-xs">
             				<img src="images/icon_fast.png" class="img-responsive">
             			</div>
             			<div class="col-md-9">
@@ -114,7 +114,7 @@
             			</div>
             		</div>
             		<div class="row">
-            			<div class="col-md-3">
+            			<div class="col-md-3 hidden-sm hidden-xs">
             				<img src="images/icon_guarantee.png" class="img-responsive">
             			</div>
             			<div class="col-md-9">
@@ -136,7 +136,7 @@
                 <div class="row">
                     <div class="col-md-4 col-md-offset-4 col-sm6-6 col-sm-offset-3">
                         <div class="contact-text">
-	                        <p>Hotline: (+84) 98 665 8355 (Lê Ngọc Mẫn)</p>
+	                        <p>Hotline: (+84) 98 665 8355 - Lê Ngọc Mẫn</p>
 	                        <div>
 			                        <span class="fa fa-map-marker"></span>
 			                        Thủ Đức, TP. Hồ Chí Minh
