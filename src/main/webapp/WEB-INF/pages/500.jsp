@@ -7,20 +7,20 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Error 500</title>
 
-<link rel="stylesheet" href="<c:url value='/css/bootstrap.css'/>">
-<link rel="stylesheet" href="<c:url value='/css/bootstrap-theme.css'/>">
-<link rel="stylesheet" href="<c:url value='/css/myStyle.css'/>">
-<link rel="stylesheet" href="<c:url value='/css/error.css'/>">
+<link rel="stylesheet" href="<c:url value='css/bootstrap.css'/>">
+<link rel="stylesheet" href="<c:url value='css/bootstrap-theme.css'/>">
+<link rel="stylesheet" href="<c:url value='css/myStyle.css'/>">
+<link rel="stylesheet" href="<c:url value='css/error.css'/>">
 
-<script type="text/javascript" src="<c:url value='/js/jquery-1.10.2.js'/>"></script>
-<script type="text/javascript" src="<c:url value='/js/jquery-migrate.min.js'/>"></script>
-<script type="text/javascript" src="<c:url value='/js/bootstrap.js'/>"></script>
+<script type="text/javascript" src="<c:url value='js/jquery-1.10.2.js'/>"></script>
+<script type="text/javascript" src="<c:url value='js/jquery-migrate.min.js'/>"></script>
+<script type="text/javascript" src="<c:url value='js/bootstrap.min.js'/>"></script>
 
 </head>
 <body class="page-500-full-page">
 	<div class="row">
 		<div class="col-md-12 page-500" style="margin-top: 0px;">
-			<img alt="" src="<c:url value='/images/kidmondo_face_sad.gif' />">
+			<img alt="" src="<c:url value='images/kidmondo_face_sad.gif' />">
 		</div>
 	</div>
 	<div class="row">
@@ -28,7 +28,7 @@
 			<div class=" number">
 				500
 			</div>
-			<div class=" details">
+			<div class="details">
 			<h3>Oops! Something went wrong.</h3>
 			<p>
 				 We are fixing it!<br/>

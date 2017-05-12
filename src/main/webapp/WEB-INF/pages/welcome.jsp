@@ -19,7 +19,6 @@
 
     <!--     Fonts     -->
     <link rel="stylesheet" href="fonts/font-awesome-4.7.0/css/font-awesome.min.css">
-    <link href='http://fonts.googleapis.com/css?family=Grand+Hotel' rel='stylesheet' type='text/css'>
 
 </head>
 
